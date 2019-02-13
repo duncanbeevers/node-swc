@@ -4,6 +4,8 @@
   "description": "Super-fast alternative for babel",
   "main": "lib/index.js",
   "author": "강동윤 <kdy1@outlook.kr>",
+  "homepage": "https://swc-project.github.io",
+  "repository": "https://github.com/swc-project/swc",
   "license": "MIT",
   "dependencies": {
     "mkdirp": "^0.5.1",
